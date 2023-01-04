@@ -4,6 +4,7 @@
 // - André Igor Costa Linhares - Engenharia de Computação, Turma 2021.1.
 // - Gustavo Silveira Dias - Engenharia de Computação, Turma 2021.1.
 // - Mirelle Silva Vieira - Engenharia de Computação, Turma 2021.1.
+// Apenas introduzindo uma alteração
 
 #include <iostream>
 #include <locale>
